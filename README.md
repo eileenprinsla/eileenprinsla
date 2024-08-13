@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **a back-end development project for a college FabLab application.**
 
-- 💬 Ask me about **python, java, C programming, and 3D printing**
+- 💬 Ask me about **python, java, C programming, and 3D printing.**
 
 - 📫 How to reach me **prinslaeileen@gmail.com**
 
