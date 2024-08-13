@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eileen Prinsla</h1>
 <h3 align="center">A Passionate Student of Software Development</h3>
 
-- 🔭 I’m currently working on **empowering autonomous drones with image processing and computer vision**
+- 🔭 I’m currently working on **empowering autonomous drones with image processing and computer vision.**
 
-- 🌱 I’m currently learning **backend development leveraging java**
+- 🌱 I’m currently learning **backend development leveraging java.**
 
-- 👯 I’m looking to collaborate on **a back-end development project for a college FabLab application..**
+- 👯 I’m looking to collaborate on **a back-end development project for a college FabLab application.**
 
 - 💬 Ask me about **python, java, C programming, and 3D printing**
 
